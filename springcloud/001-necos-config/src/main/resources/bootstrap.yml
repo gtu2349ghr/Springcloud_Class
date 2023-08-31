@@ -1,0 +1,13 @@
+server:
+  port: 6001
+spring:
+  application:
+    name: 001-config
+  cloud:
+    nacos:
+      server-addr: localhost:8848
+      config:
+        server-addr: localhost:8848
+        file-extension: yaml
+        group: DEV_GROUP
+

@@ -1,0 +1,28 @@
+2023-08-10 21:25:19,663 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 6004 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 6004 or configure this application to listen on another port.
+
+2023-08-10 21:28:04,977 ERROR [main][LoggingFailureAnalysisReporter.java:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 6004 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 6004 or configure this application to listen on another port.
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../xuecheng-plus-base/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-content/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-model/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-service/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-system/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-media/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-media/xuecheng-plus-medis-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../xxl-job-2.3.1/pom.xml" />
+        <option value="$PROJECT_DIR$/../xxl-job-2.3.1/xxl-job-executor-samples/pom.xml" />
+        <option value="$PROJECT_DIR$/../xxl-job-2.3.1/xxl-job-executor-samples/xxl-job-executor-sample-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/../xxl-job-2.3.1/xxl-job-executor-samples/xxl-job-executor-sample-frameless/pom.xml" />
+        <option value="$PROJECT_DIR$/../xxl-job-2.3.1/xxl-job-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/../xxl-job-2.3.1/xxl-job-core/pom.xml" />
+        <option value="$PROJECT_DIR$/../xuecheng-plus-message-sdk/pom.xml" />
+        <option value="$PROJECT_DIR$/../xuecheng-plus-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/../xuecheng-plus-checkcode/pom.xml" />
+        <option value="$PROJECT_DIR$/../xuecheng-plus-learning/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SuppressABINotification">
+    <option name="modulesWithSuppressedNotConfigured">
+      <set>
+        <option value="xuecheng-plus-base" />
+      </set>
+    </option>
+  </component>
+</project>

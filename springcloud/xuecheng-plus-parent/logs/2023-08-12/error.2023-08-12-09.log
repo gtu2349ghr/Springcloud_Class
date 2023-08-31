@@ -1,0 +1,2 @@
+2023-08-12 09:35:13,607 ERROR [http-nio-6004-exec-4][MediaFileServiceImpl.java:127] - 上传文件出错,bucket:video,objectName:6/1/61f227da62a46afe3cc134da10a3872e/chunk/0,错误信息:The specified bucket does not exist
+2023-08-12 09:37:33,758 ERROR [http-nio-6004-exec-1][MediaFileServiceImpl.java:127] - 上传文件出错,bucket:video,objectName:2/b/2b7dd09bb8eefb32389ae0c44eed7cda/chunk/0,错误信息:The specified bucket does not exist
